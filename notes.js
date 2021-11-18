@@ -36,4 +36,40 @@
 // let - things you want to change 
 // const -constant or things you don't want to change 
 // ^^ use these instead 
-// scope is wherever you define it 
+// scope is wherever you define it
+
+// coding block (start and end with curly braces)
+// {
+
+// }
+
+// if () {
+
+   
+// } else {
+
+
+// }
+
+// functions = methods in Ruby 
+// blocks of code separated inside of projects
+// function displayMenu(num) {
+
+// }
+
+// displayMenu(num)
+
+// displayMenu = (arguments) => {
+
+// }
+
+
+// const displayMenu = (arguments) => {
+  
+// }
+
+// displayMenu(num)
+
+// // V (anonymous function - doesn't have a name)
+// () => code 
+
